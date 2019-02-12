@@ -3,5 +3,6 @@ The Flesch–Kincaid readability tests are readability tests designed to indicat
 
 To run use:
 make all
+
 ./fleschIndex "FileName".txt
 
