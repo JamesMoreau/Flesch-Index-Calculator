@@ -7,3 +7,6 @@ make all
 
 ./fleschIndex "FileName".txt
 
+
+where "FileName".txt contains the text you wish to calculate an index for.
+
